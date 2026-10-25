@@ -50,6 +50,40 @@ A car logbook for **Android**. Fuel consumption, maintenance, expenses, deadline
 </tr>
 </table>
 
+## 🎓 Education & experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**<br>
+Computer Engineering (*Engenharia Informática*), student
+
+**🌍 Languages**<br>
+Portuguese · native<br>
+English · fluent
+
+</td>
+<td width="50%" valign="top">
+
+**🏛️ Experience**<br>
+Administrative work · Câmara Municipal de Matosinhos
+
+</td>
+</tr>
+</table>
+
+## ✨ Beyond code
+
+<p>
+  <img src="https://img.shields.io/badge/Team%20management-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creative%20thinking-bc8cff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20solving-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20administration-f0883e?style=for-the-badge" />
+</p>
+
+I combine technical skills with real-world experience in team management and public-sector administration, so I build software that solves practical problems for the people who use it.
+
 ## 🛠️ Tools
 
 <p>
