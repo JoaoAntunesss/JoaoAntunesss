@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="João Antunes · Software Engineering student" width="100%">
+<img src="assets/header.svg" alt="João Antunes · Computer Engineering student" width="100%">
 
 <br>
 
-<img src="https://img.shields.io/badge/Software%20Engineering%20student-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Engineering%20student-1f6feb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
