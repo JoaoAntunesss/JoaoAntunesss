@@ -9,11 +9,13 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 <br><br>
 
 <a href="https://github.com/JoaoAntunesss?tab=repositories"><img src="https://img.shields.io/github/followers/JoaoAntunesss?label=Followers&style=flat-square&color=2ea043&labelColor=0d1117" /></a>
+<a href="https://github.com/JoaoAntunesss/ledgerly"><img src="https://img.shields.io/github/stars/JoaoAntunesss/ledgerly?label=Ledgerly%20stars&style=flat-square&color=a65f1e&labelColor=0d1117" /></a>
 <a href="https://github.com/JoaoAntunesss/cockpit/stargazers"><img src="https://img.shields.io/github/stars/JoaoAntunesss/cockpit?label=Cockpit%20stars&style=flat-square&color=58a6ff&labelColor=0d1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=JoaoAntunesss&label=Profile%20views&color=bc8cff&style=flat-square" />
 
@@ -49,6 +51,31 @@ A car logbook for **Android**. Fuel consumption, maintenance, expenses, deadline
 </td>
 </tr>
 </table>
+
+## 💸 Also featured
+
+<table>
+<tr>
+<td width="62%">
+
+### Ledgerly
+A money manager for **home and small business** that runs in the browser and installs on your phone. Bills with *why they went up*, subscriptions, loans, income, spending by month with a savings planner, invoices and VAT. Everything stays on your device, with optional end-to-end encrypted sync (Google sign-in or a family code) and 25 colour themes.
+
+`JavaScript` `PWA` `three.js` `Firebase` `Web Crypto`
+
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/ledgerly)
+[![Try it](https://img.shields.io/badge/Try-it%20online-a65f1e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/ledgerly/)
+
+</td>
+<td width="38%" align="center">
+
+<img src="assets/ledgerly-mobile.png" alt="Ledgerly on a phone" width="190">
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="assets/ledgerly-dashboard.png" alt="Ledgerly dashboard" width="88%"></p>
 
 ## 🎓 Education & experience
 
@@ -91,6 +118,8 @@ I combine technical skills with real-world experience in team management and pub
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
