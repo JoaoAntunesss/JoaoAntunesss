@@ -16,6 +16,7 @@
 
 <a href="https://github.com/JoaoAntunesss?tab=repositories"><img src="https://img.shields.io/github/followers/JoaoAntunesss?label=Followers&style=flat-square&color=2ea043&labelColor=0d1117" /></a>
 <a href="https://github.com/JoaoAntunesss/ledgerly"><img src="https://img.shields.io/github/stars/JoaoAntunesss/ledgerly?label=Ledgerly%20stars&style=flat-square&color=a65f1e&labelColor=0d1117" /></a>
+<a href="https://github.com/JoaoAntunesss/AntunesPlayer"><img src="https://img.shields.io/github/stars/JoaoAntunesss/AntunesPlayer?label=AntunesPlayer%20stars&style=flat-square&color=2fd8ff&labelColor=0d1117" /></a>
 <a href="https://github.com/JoaoAntunesss/cockpit/stargazers"><img src="https://img.shields.io/github/stars/JoaoAntunesss/cockpit?label=Cockpit%20stars&style=flat-square&color=58a6ff&labelColor=0d1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=JoaoAntunesss&label=Profile%20views&color=bc8cff&style=flat-square" />
 
@@ -99,6 +100,41 @@ A **slot machine for movies and series**. Pick the type, genres, the streaming p
 </table>
 
 <p align="center"><img src="assets/reelpick-slot.png" alt="ReelPick slot machine" width="70%"></p>
+
+<table>
+<tr>
+<td width="62%">
+
+### AntunesPlayer
+An **IPTV player** for the web, Android phones and Google TV. Xtream login or M3U playlist, live TV with a guide and catch-up, movies and series with seasons, favourites in your own order, and number zapping from the remote. Full-screen player with a see-through channel panel on the remote's ◀, gestures for brightness and volume, parental PIN. Brings no channels: you add your own list.
+
+`JavaScript` `hls.js` `Capacitor` `Android TV` `GitHub Actions`
+
+[![Download](https://img.shields.io/badge/Download-APK-2ea043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/JoaoAntunesss/AntunesPlayer/releases/latest)
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/AntunesPlayer)
+[![Try it](https://img.shields.io/badge/Try-it%20online-2fd8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/AntunesPlayer/)
+
+</td>
+<td width="38%" align="center">
+
+<img src="assets/antunesplayer-phone.jpg" alt="AntunesPlayer movies on a phone" width="190">
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="assets/antunesplayer-live.jpg" alt="AntunesPlayer live TV with guide" width="49%"> <img src="assets/antunesplayer-panel.jpg" alt="AntunesPlayer channel panel on the remote" width="49%"></p>
+
+## 🤖 AI agents
+
+### Bets Agents
+A team of **18 AI agents on Claude Code** that studies the day's football matches. Collectors (form, referee, weather, injuries, news), market experts, a builder, a four-member jury that can veto, and a president who signs off. A local dashboard shows every agent at work, and a ledger tracks profit, ROI and hit rate over time. It never places bets and never promises profit.
+
+`Claude Code` `Multi-agent` `Python` `Dashboard`
+
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/Bets-Agents)
+
+<p align="center"><img src="assets/bets-specialists.jpg" alt="Bets Agents dashboard with the market experts" width="88%"></p>
 
 ## 🎓 Education & experience
 
