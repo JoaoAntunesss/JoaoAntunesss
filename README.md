@@ -105,9 +105,9 @@ A **slot machine for movies and series**. Pick the type, genres, the streaming p
 <td width="62%">
 
 ### AntunesPlayer
-An **IPTV player** for the web, Android phones and Google TV. Xtream login or M3U playlist, live TV with a guide and catch-up, movies and series with seasons, favourites in your own order, and number zapping from the remote. Full-screen player with a see-through channel panel on the remote's ◀, gestures for brightness and volume, parental PIN. Brings no channels: you add your own list.
+An **IPTV player** for the web, Android phones and Google TV. Xtream login or M3U playlist, live TV with a guide and catch-up, movies and series with seasons, favourites in your own order, and number zapping from the remote. Full-screen player with a see-through channel panel on the remote's ◀, gestures for brightness and volume, parental PIN. **Sign in with Google** to keep playlists (logins encrypted), favourites and settings on every device; a TV signs in with a short code from the phone. In-app updates. Brings no channels: you add your own list.
 
-`JavaScript` `hls.js` `Capacitor` `Android TV` `GitHub Actions`
+`JavaScript` `hls.js` `Capacitor` `Firebase` `Android TV` `GitHub Actions`
 
 [![Download](https://img.shields.io/badge/Download-APK-2ea043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/JoaoAntunesss/AntunesPlayer/releases/latest)
 [![Try it](https://img.shields.io/badge/Try-it%20online-2fd8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/AntunesPlayer/)
