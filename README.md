@@ -87,6 +87,7 @@ A **slot machine for movies and series**. Pick the type, genres, the streaming p
 `JavaScript` `three.js` `TMDB API` `Firebase`
 
 [![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/reelpick)
+[![Try it](https://img.shields.io/badge/Try-it%20online-e50914?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/reelpick/)
 
 </td>
 <td width="38%" align="center">
