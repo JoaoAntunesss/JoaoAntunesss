@@ -77,6 +77,28 @@ A money manager for **home and small business** that runs in the browser and ins
 
 <p align="center"><img src="assets/ledgerly-dashboard.png" alt="Ledgerly dashboard" width="88%"></p>
 
+<table>
+<tr>
+<td width="62%">
+
+### ReelPick
+A **slot machine for movies and series**. Pick the type, genres, the streaming platforms you actually have and a mood, pull the lever, and the reel stops on a random title that matches. Optional Google sign-in for a seen list, friends, reviews and a daily pick.
+
+`JavaScript` `three.js` `TMDB API` `Firebase`
+
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/reelpick)
+
+</td>
+<td width="38%" align="center">
+
+<img src="assets/reelpick-phone.png" alt="ReelPick on a phone" width="190">
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="assets/reelpick-slot.png" alt="ReelPick slot machine" width="70%"></p>
+
 ## 🎓 Education & experience
 
 <table>
