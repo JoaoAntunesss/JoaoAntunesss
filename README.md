@@ -16,7 +16,6 @@
 
 <a href="https://github.com/JoaoAntunesss?tab=repositories"><img src="https://img.shields.io/github/followers/JoaoAntunesss?label=Followers&style=flat-square&color=2ea043&labelColor=0d1117" /></a>
 <a href="https://github.com/JoaoAntunesss/ledgerly"><img src="https://img.shields.io/github/stars/JoaoAntunesss/ledgerly?label=Ledgerly%20stars&style=flat-square&color=a65f1e&labelColor=0d1117" /></a>
-<a href="https://github.com/JoaoAntunesss/AntunesPlayer"><img src="https://img.shields.io/github/stars/JoaoAntunesss/AntunesPlayer?label=AntunesPlayer%20stars&style=flat-square&color=2fd8ff&labelColor=0d1117" /></a>
 <a href="https://github.com/JoaoAntunesss/cockpit/stargazers"><img src="https://img.shields.io/github/stars/JoaoAntunesss/cockpit?label=Cockpit%20stars&style=flat-square&color=58a6ff&labelColor=0d1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=JoaoAntunesss&label=Profile%20views&color=bc8cff&style=flat-square" />
 
@@ -111,7 +110,6 @@ An **IPTV player** for the web, Android phones and Google TV. Xtream login or M3
 `JavaScript` `hls.js` `Capacitor` `Android TV` `GitHub Actions`
 
 [![Download](https://img.shields.io/badge/Download-APK-2ea043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/JoaoAntunesss/AntunesPlayer/releases/latest)
-[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/AntunesPlayer)
 [![Try it](https://img.shields.io/badge/Try-it%20online-2fd8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/AntunesPlayer/)
 
 </td>
