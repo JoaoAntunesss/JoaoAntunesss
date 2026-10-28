@@ -89,7 +89,7 @@ In-app updates · Portuguese and English · parental PIN
 </table>
 
 <p align="center"><img src="assets/ap-home-red.jpg" alt="Home screen in a red colour choice" width="24%"> <img src="assets/antunesflix-rows.jpg" alt="AntunesFlix: continue watching and Top 10" width="24%"> <img src="assets/ap-live-list.jpg" alt="Live TV channel list" width="24%"> <img src="assets/ap-colours-settings.jpg" alt="Colour settings" width="24%"></p>
-<p align="center"><img src="assets/antunesflix-intro.jpg" alt="AntunesFlix intro animation" width="49%"> <img src="assets/antunesplayer-live.jpg" alt="AntunesPlayer live TV with guide on a TV" width="49%"></p>
+<p align="center"><img src="assets/antunesflix-intro.jpg" alt="AntunesFlix intro animation" width="60%"></p>
 
 ## 🚗 Also featured
 
