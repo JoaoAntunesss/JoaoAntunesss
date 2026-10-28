@@ -23,7 +23,76 @@
 
 <img src="assets/divider.svg" width="100%">
 
-## 🚗 Featured project
+## 📺 Featured project
+
+<table>
+<tr>
+<td width="62%">
+
+### AntunesPlayer
+An **IPTV player** for Android phones, **Google TV** and the web, with **AntunesFlix** inside: films and series organised like a streaming service. Bring your own Xtream login or M3U list (no channels included).
+
+`JavaScript` `hls.js` `Capacitor` `Firebase` `OpenSubtitles API` `Android TV` `GitHub Actions`
+
+[![Download](https://img.shields.io/badge/Download-APK-2ea043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/JoaoAntunesss/AntunesPlayer/releases/latest)
+[![Try it](https://img.shields.io/badge/Try-it%20online-2fd8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/AntunesPlayer/)
+
+</td>
+<td width="38%" align="center">
+
+<img src="assets/antunesplayer-phone.jpg" alt="AntunesPlayer movies on a phone" width="190">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🍿 AntunesFlix**<br>
+Billboard, Top 10, a row per genre, My list<br>
+Continue watching across films and series<br>
+Next-episode countdown in the last seconds<br>
+Watched marks, resume T1:E3, “more like this”<br>
+Its own intro animation
+
+</td>
+<td width="50%" valign="top">
+
+**📡 Live TV**<br>
+TV guide grid, catch-up, reminders<br>
+Number zapping and favourites in your order<br>
+See-through channel list on the remote's ◀<br>
+Sleep timer, stream info and quality picker<br>
+Open in VLC / MX Player
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**☁️ Your account**<br>
+Sign in with Google: playlists (logins encrypted), favourites, progress and settings on every device<br>
+A TV signs in with a short code from the phone
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 Yours to shape**<br>
+Pick the app colour, the AntunesFlix colour and the background<br>
+Online subtitles in your languages, switched on by themselves<br>
+In-app updates · Portuguese and English · parental PIN
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="assets/antunesflix-intro.jpg" alt="AntunesFlix intro animation" width="49%"> <img src="assets/antunesplayer-live.jpg" alt="AntunesPlayer live TV with guide" width="49%"></p>
+<p align="center"><img src="assets/antunesplayer-colours.jpg" alt="AntunesPlayer in three colour choices" width="98%"></p>
+<p align="center"><img src="assets/antunesplayer-panel.jpg" alt="AntunesPlayer channel panel on the remote" width="70%"></p>
+
+## 🚗 Also featured
 
 <table>
 <tr>
@@ -51,8 +120,6 @@ A car logbook for **Android**. Fuel consumption, maintenance, expenses, deadline
 </td>
 </tr>
 </table>
-
-## 💸 Also featured
 
 <table>
 <tr>
@@ -99,29 +166,6 @@ A **slot machine for movies and series**. Pick the type, genres, the streaming p
 </table>
 
 <p align="center"><img src="assets/reelpick-slot.png" alt="ReelPick slot machine" width="70%"></p>
-
-<table>
-<tr>
-<td width="62%">
-
-### AntunesPlayer
-An **IPTV player** for the web, Android phones and Google TV. Xtream login or M3U playlist, live TV with a guide and catch-up, movies and series with seasons, favourites in your own order, and number zapping from the remote. Full-screen player with a see-through channel panel on the remote's ◀, gestures for brightness and volume, parental PIN. **Sign in with Google** to keep playlists (logins encrypted), favourites and settings on every device; a TV signs in with a short code from the phone. In-app updates. Brings no channels: you add your own list.
-
-`JavaScript` `hls.js` `Capacitor` `Firebase` `Android TV` `GitHub Actions`
-
-[![Download](https://img.shields.io/badge/Download-APK-2ea043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/JoaoAntunesss/AntunesPlayer/releases/latest)
-[![Try it](https://img.shields.io/badge/Try-it%20online-2fd8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/AntunesPlayer/)
-
-</td>
-<td width="38%" align="center">
-
-<img src="assets/antunesplayer-phone.jpg" alt="AntunesPlayer movies on a phone" width="190">
-
-</td>
-</tr>
-</table>
-
-<p align="center"><img src="assets/antunesplayer-live.jpg" alt="AntunesPlayer live TV with guide" width="49%"> <img src="assets/antunesplayer-panel.jpg" alt="AntunesPlayer channel panel on the remote" width="49%"></p>
 
 ## 🤖 AI agents
 
