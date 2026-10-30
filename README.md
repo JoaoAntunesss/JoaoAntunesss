@@ -65,7 +65,8 @@ TV guide grid, catch-up, reminders<br>
 Number zapping and favourites in your order<br>
 See-through channel list on the remote's ◀<br>
 Sleep timer, stream info and quality picker<br>
-Open in VLC / MX Player
+Open in VLC / MX Player<br>
+Last channel plays muted behind the TV home screen
 
 </td>
 </tr>
@@ -91,7 +92,7 @@ In-app updates · Portuguese and English · parental PIN
 <p align="center"><img src="assets/ap-home-red.jpg" alt="Home screen in a red colour choice" width="24%"> <img src="assets/antunesflix-rows.jpg" alt="AntunesFlix: continue watching and Top 10" width="24%"> <img src="assets/ap-live-list.jpg" alt="Live TV channel list" width="24%"> <img src="assets/ap-colours-settings.jpg" alt="Colour settings" width="24%"></p>
 <p align="center"><img src="assets/antunesflix-intro.jpg" alt="AntunesFlix intro animation" width="60%"></p>
 
-## 🚗 Also featured
+## 📱 Apps
 
 <table>
 <tr>
@@ -165,6 +166,75 @@ A **slot machine for movies and series**. Pick the type, genres, the streaming p
 </table>
 
 <p align="center"><img src="assets/reelpick-slot.png" alt="ReelPick slot machine" width="70%"></p>
+
+## 🏪 Websites for local businesses
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Template Studio
+Booking website for **beauty salons**: public site with the next free slot in real time, booking in 3 steps, a management panel (revenue, clients, weekly agenda, vouchers) and **WhatsApp** notices. Each shop is set up in one file and installs on the phone as an app. Already running for a real salon.
+
+`JavaScript` `Firebase` `PWA` `Cloud Functions`
+
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/template-studio)
+
+</td>
+<td width="50%" valign="top">
+
+### Template Restaurant
+Restaurant website plus a **digital menu shaped like a book**: leather, wood or slate cover, pages that turn with your finger, full screen from the table's QR code. The owner edits dishes, prices, allergens and the cover in a panel. No link to kitchen or billing.
+
+`JavaScript` `StPageFlip` `Firebase` `QR codes`
+
+[![Try it](https://img.shields.io/badge/Try-the%20menu-c0392b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/Template-Restaurant/public/menu.html)
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/Template-Restaurant)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/JoaoAntunesss/template-studio/main/docs/site.png" alt="Template Studio booking site" width="49%"> <img src="https://raw.githubusercontent.com/JoaoAntunesss/Template-Restaurant/main/docs/cardapio-computador.png" alt="Template Restaurant flipbook menu" width="49%"></p>
+
+## 📺 Smart TV
+
+### TV Debloat · design UNIQUE
+Turns a slow, ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen: reversible debloat of 20 ad and telemetry apps, a dock of favourite apps, a control panel (now playing, Wi-Fi, sound output, clock, wallpaper), the **AntunesPlayer channel playing muted behind the menu** or a **fireplace with sound**, and **split screen** with an HDMI input. Survives reboots; one script installs it and one script undoes it.
+
+Comes with **Comando TV**, an Android phone remote over Wi-Fi: touchpad, volume, power and the TV's apps, paired once with a code on the TV.
+
+`Java` `Android TV` `ADB` `PowerShell` `Android TV Remote protocol`
+
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/TV-Debloat-designUNIQUE)
+
+## 🧰 Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### FB Pulse
+A free local **dashboard for Firebase projects**: are the servers up, how many users are active right now, how many are registered, and the errors your apps reported in the last 24 hours. Runs on a schedule with GitHub Actions and publishes to GitHub Pages.
+
+`Python` `Firebase` `GitHub Actions`
+
+[![Dashboard](https://img.shields.io/badge/Open-dashboard-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://joaoantunesss.github.io/fb-pulse/)
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/fb-pulse)
+
+</td>
+<td width="50%" valign="top">
+
+### TV Debloat (desktop)
+The first version: a **Python + Tkinter** desktop app that cleans an Android TV over wireless ADB, step by step and reversibly.
+
+`Python` `Tkinter` `ADB`
+
+[![Code](https://img.shields.io/badge/View-code-181717?style=for-the-badge&logo=github)](https://github.com/JoaoAntunesss/tv-debloat)
+
+</td>
+</tr>
+</table>
 
 ## 🤖 AI agents
 
