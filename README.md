@@ -187,9 +187,5 @@ Portuguese, native<br>English, fluent
 </tr>
 </table>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoAntunesss&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=2ea043" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAntunesss&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
-</p>
 
 <p align="center"><i>"First make it work, then make it beautiful."</i></p>
