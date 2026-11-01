@@ -164,6 +164,39 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 
 <img src="assets/divider.svg" width="100%">
 
+<h2 align="center">How I work</h2>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Team management**<br>
+<sub>I coordinate people and work in a team: clear priorities, shared tasks and everyone knowing what comes next.</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**Creative thinking**<br>
+<sub>I look for a different way in when the usual one doesn't fit, whether it's a design, a workflow or a tool.</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**Problem solving**<br>
+<sub>I like finding the cause and fixing it for good, not working around it.</sub>
+
+</td>
+<td width="25%" valign="top">
+
+**Always optimising**<br>
+<sub>At work I keep looking for ways to do things better, through a better method or the right tool, and I build that tool myself when it doesn't exist.</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%">
+
 <table>
 <tr>
 <td width="33%" valign="top">
