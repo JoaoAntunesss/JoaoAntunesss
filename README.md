@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 
 <h3>Platforms and tools</h3>
 
@@ -45,7 +44,7 @@
 
 <table>
 <tr>
-<td width="34%" align="center" valign="middle"><img src="assets/antunesflix-home.jpg" alt="AntunesFlix on a phone" width="170"></td>
+<td width="34%" align="center" valign="middle"><img src="assets/antunesflix-intro.jpg" alt="AntunesFlix intro" width="100%"></td>
 <td width="66%" valign="top">
 
 ### AntunesPlayer
@@ -61,7 +60,7 @@ An **IPTV player** for Android phones, **Google TV** and the web, with **Antunes
 </tr>
 </table>
 
-<p align="center"><img src="assets/ap-home-red.jpg" alt="Home screen" width="24%"> <img src="assets/antunesflix-rows.jpg" alt="AntunesFlix rows" width="24%"> <img src="assets/ap-live-list.jpg" alt="Live TV list" width="24%"> <img src="assets/ap-colours-settings.jpg" alt="Colour settings" width="24%"></p>
+<p align="center"><img src="assets/ap-1-menu.png" alt="AntunesPlayer main menu" width="28%"> <img src="assets/ap-3-flix.png" alt="AntunesFlix home" width="28%"> <img src="assets/ap-2-live.png" alt="Live TV list" width="28%"></p>
 
 <table>
 <tr>
@@ -104,7 +103,7 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 
 </td>
 <td width="33%" valign="top" align="center">
-<img src="https://img.shields.io/badge/Kotlin-Jetpack_Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"><br><br>
+<img src="assets/cockpit-prices.png" alt="Cockpit fuel price widget" height="300"><br>
 
 **[Cockpit](https://github.com/JoaoAntunesss/cockpit)**<br>
 <sub>Car logbook for Android: real fuel consumption, maintenance and deadline reminders, cost per km, fuel prices and EV chargers nearby, widgets. Colours follow the car's brand.</sub><br><br>
@@ -158,17 +157,24 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 
 </td>
 <td width="50%" valign="top">
+<img src="assets/fbpulse-dashboard.jpg" alt="FB Pulse dashboard (demo data)" width="100%">
 
 **[FB Pulse](https://github.com/JoaoAntunesss/fb-pulse)**<br>
-<sub>A free dashboard for Firebase projects: are the servers up, active and registered users, and the errors apps reported in the last 24 hours. Runs on GitHub Actions.</sub>
+<sub>A free dashboard for Firebase projects: are the servers up, active and registered users, and the errors apps reported in the last 24 hours. Runs on GitHub Actions. The capture uses demo data.</sub>
 <a href="https://joaoantunesss.github.io/fb-pulse/">Open the dashboard</a>
 
-<br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/tvdebloat-desktop.jpg" alt="TV Debloat desktop app: choosing packages" width="100%">
 
 **[TV Debloat (desktop)](https://github.com/JoaoAntunesss/tv-debloat)**<br>
 <sub>The first version of the TV cleaner: a Python and Tkinter app over wireless ADB, step by step and reversible.</sub>
 
-<br><br>
+</td>
+<td width="50%" valign="top">
+<img src="assets/smarthub.jpg" alt="Smart Hub: 3D model of the house with device controls" width="100%">
 
 **[Smart Hub](https://github.com/JoaoAntunesss/Smart-Home-Android-Panel)**<br>
 <sub>An Android panel for my own home: a rotatable 3D model of the house (three.js) where I tap a room to control its lights and plugs. It talks to Tuya devices directly over the local network and falls back to the cloud.</sub>
@@ -190,6 +196,7 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 
 </td>
 <td width="50%" valign="top">
+<img src="assets/basica-home.jpg" alt="Open Basic Education: the degree as a hand-drawn concept map" width="100%">
 
 **[Open Basic Education](https://github.com/JoaoAntunesss/educacao-basica-aberta)**<br>
 <sub>A free guide to the Basic Education degree (180 ECTS): 35 subjects with topics, practical tasks and links to the national curriculum, plus a hand-drawn concept map in a school-notebook design. Portuguese and English.</sub>
