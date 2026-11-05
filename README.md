@@ -134,6 +134,16 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<img src="https://raw.githubusercontent.com/JoaoAntunesss/aw/main/img/at-beauty-studio.jpg" alt="AT Beauty Studio website" width="49%" align="right">
+
+**[AW](https://github.com/JoaoAntunesss/aw)**<br>
+<sub>My small web studio for restaurants, beauty salons, babysitters and tutors: careful, fast and accessible sites that I build and maintain, with maintenance plans, payments the client chooses, and a portfolio with live demos.</sub>
+<a href="https://joaoantunesss.github.io/aw/">See the studio</a>
+
+</td>
+</tr>
 </table>
 
 <h2 align="center">Tools and AI agents</h2>
@@ -162,6 +172,28 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 
 **[Smart Hub](https://github.com/JoaoAntunesss/Smart-Home-Android-Panel)**<br>
 <sub>An Android panel for my own home: a rotatable 3D model of the house (three.js) where I tap a room to control its lights and plugs. It talks to Tuya devices directly over the local network and falls back to the cloud.</sub>
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">Free learning guides</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/JoaoAntunesss/open-computer-engineering/main/docs/inicio.jpg" alt="Open Computer Engineering: the course as a 3D circuit board" width="100%">
+
+**[Open Computer Engineering](https://github.com/JoaoAntunesss/open-computer-engineering)**<br>
+<sub>A complete, free computer engineering degree in Portuguese and English: 35 subjects, written lessons with solved exercises, a guided path, and a 3D circuit board that lights up as you learn. Built with Three.js, no build step.</sub>
+<a href="https://joaoantunesss.github.io/open-computer-engineering/">Open the course</a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Open Basic Education](https://github.com/JoaoAntunesss/educacao-basica-aberta)**<br>
+<sub>A free guide to the Basic Education degree (180 ECTS): 35 subjects with topics, practical tasks and links to the national curriculum, plus a hand-drawn concept map in a school-notebook design. Portuguese and English.</sub>
+<a href="https://joaoantunesss.github.io/educacao-basica-aberta/">Open the guide</a>
 
 </td>
 </tr>
