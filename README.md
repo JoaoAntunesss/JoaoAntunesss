@@ -158,6 +158,11 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 **[TV Debloat (desktop)](https://github.com/JoaoAntunesss/tv-debloat)**<br>
 <sub>The first version of the TV cleaner: a Python and Tkinter app over wireless ADB, step by step and reversible.</sub>
 
+<br><br>
+
+**[Smart Hub](https://github.com/JoaoAntunesss/Smart-Home-Android-Panel)**<br>
+<sub>An Android panel for my own home: a rotatable 3D model of the house (three.js) where I tap a room to control its lights and plugs. It talks to Tuya devices directly over the local network and falls back to the cloud.</sub>
+
 </td>
 </tr>
 </table>
