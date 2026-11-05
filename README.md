@@ -135,7 +135,7 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<img src="https://raw.githubusercontent.com/JoaoAntunesss/aw/main/img/at-beauty-studio.jpg" alt="AT Beauty Studio website" width="49%" align="right">
+<img src="https://raw.githubusercontent.com/JoaoAntunesss/JoaoAntunesss/main/assets/aw-site.jpg" alt="AW web studio, about me section" width="49%" align="right">
 
 **[AW](https://github.com/JoaoAntunesss/aw)**<br>
 <sub>My small web studio for restaurants, beauty salons, babysitters and tutors: careful, fast and accessible sites that I build and maintain, with maintenance plans, payments the client chooses, and a portfolio with live demos.</sub>
