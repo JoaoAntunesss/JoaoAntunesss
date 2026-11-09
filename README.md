@@ -48,7 +48,7 @@
 <td width="66%" valign="top">
 
 ### AntunesPlayer
-An **IPTV player** for Android phones, **Google TV** and the web, with **AntunesFlix** inside: films and series organised like a streaming service, a TV guide, catch-up, favourites in your order and Google sign-in to sync everything. Bring your own Xtream login or M3U list.
+An **IPTV player** for Android phones, **Google TV** and the web, with **AntunesFlix** inside: films and series organised by genre like a streaming service (comedy, romance, Christmas and more), a TV guide, catch-up, favourites in your order and Google sign-in to sync everything. Bring your own Xtream login or M3U list.
 
 `JavaScript` `hls.js` `Capacitor` `Firebase` `Android TV`
 
@@ -116,7 +116,7 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 
 **[Freezer](https://github.com/JoaoAntunesss/Freezer)**<br>
 <sub>Shared stock for the freezer, fridge and pantry, in Kotlin and Jetpack Compose with Firebase: expiry alerts, barcode scanning, items added by voice, shopping lists filled in from a photo of the receipt with AI, monthly menus and spending. Updates itself from inside the app.</sub><br><br>
-<a href="https://raw.githubusercontent.com/JoaoAntunesss/Freezer/atualizacoes/freezer.apk"><img src="https://img.shields.io/badge/Download-APK-2ea043?style=flat-square&logo=android&logoColor=white" alt="Download Freezer"></a>
+<a href="https://github.com/JoaoAntunesss/Freezer/releases/latest"><img src="https://img.shields.io/badge/Download-APK-2ea043?style=flat-square&logo=android&logoColor=white" alt="Download Freezer"></a>
 
 </td>
 </tr>
@@ -175,15 +175,8 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<img src="assets/tvdebloat-desktop.jpg" alt="TV Debloat desktop app: choosing packages" width="100%">
-
-**[TV Debloat (desktop)](https://github.com/JoaoAntunesss/tv-debloat)**<br>
-<sub>The first version of the TV cleaner: a Python and Tkinter app over wireless ADB, step by step and reversible.</sub>
-
-</td>
-<td width="50%" valign="top">
-<img src="assets/smarthub.jpg" alt="Smart Hub: 3D model of the house with device controls" width="100%">
+<td colspan="2" valign="top">
+<img src="assets/smarthub.jpg" alt="Smart Hub: 3D model of the house with device controls" width="49%" align="right">
 
 **[Smart Hub](https://github.com/JoaoAntunesss/Smart-Home-Android-Panel)**<br>
 <sub>An Android panel for my own home: a rotatable 3D model of the house (three.js) where I tap a room to control its lights and plugs. It talks to Tuya devices directly over the local network and falls back to the cloud.</sub>
