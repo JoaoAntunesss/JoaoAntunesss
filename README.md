@@ -111,6 +111,15 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 
 </td>
 </tr>
+<tr>
+<td colspan="3" valign="top">
+
+**[Freezer](https://github.com/JoaoAntunesss/Freezer)**<br>
+<sub>Shared stock for the freezer, fridge and pantry, in Kotlin and Jetpack Compose with Firebase: expiry alerts, barcode scanning, items added by voice, shopping lists filled in from a photo of the receipt with AI, monthly menus and spending. Updates itself from inside the app.</sub><br><br>
+<a href="https://raw.githubusercontent.com/JoaoAntunesss/Freezer/atualizacoes/freezer.apk"><img src="https://img.shields.io/badge/Download-APK-2ea043?style=flat-square&logo=android&logoColor=white" alt="Download Freezer"></a>
+
+</td>
+</tr>
 </table>
 
 <h2 align="center">Websites for local businesses</h2>
@@ -191,7 +200,7 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 <img src="https://raw.githubusercontent.com/JoaoAntunesss/open-computer-engineering/main/docs/inicio.jpg" alt="Open Computer Engineering: the course as a 3D circuit board" width="100%">
 
 **[Open Computer Engineering](https://github.com/JoaoAntunesss/open-computer-engineering)**<br>
-<sub>A complete, free computer engineering degree in Portuguese and English: 35 subjects, written lessons with solved exercises, a guided path, and a 3D circuit board that lights up as you learn. Built with Three.js, no build step.</sub>
+<sub>A complete, free computer engineering degree in Portuguese and English: 42 subjects and 378 written lessons with solved exercises and code you can run in the browser, a guided path, and a 3D circuit board that lights up as you learn. Installs on a phone like an app. Built with Three.js, no build step.</sub>
 <a href="https://joaoantunesss.github.io/open-computer-engineering/">Open the course</a>
 
 </td>
