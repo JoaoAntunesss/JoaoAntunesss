@@ -48,9 +48,11 @@
 <td width="66%" valign="top">
 
 ### AntunesPlayer
-An **IPTV player** for Android phones, **Google TV** and the web, with **AntunesFlix** inside: films and series organised by genre like a streaming service (comedy, romance, Christmas and more), a TV guide, catch-up, favourites in your order and Google sign-in to sync everything. Bring your own Xtream login or M3U list.
+An **IPTV player** for Android phones, **Google TV**, Windows and the web, with **AntunesFlix** inside: films and series organised by genre like a streaming service (comedy, romance, Christmas and more), a TV guide, catch-up, favourites in your order and Google sign-in to sync everything. Bring your own Xtream login or M3U list.
 
-`JavaScript` `hls.js` `Capacitor` `Firebase` `Android TV`
+Up to six **profiles** per account (with a kids profile), **multi-screen** with 2 or 4 channels at once, **scheduled recordings** that run in the background on Android, a **games agenda** built from the TV guide, **voice search** with the TV remote's microphone, and a live stream that adapts its buffer when a busy server keeps stopping.
+
+`JavaScript` `hls.js` `mpegts.js` `Capacitor` `Electron` `Java` `Firebase` `Android TV`
 
 [![Download](https://img.shields.io/badge/Download-APK-2ea043?style=flat-square&logo=android&logoColor=white)](https://github.com/JoaoAntunesss/AntunesPlayer/releases/latest)
 [![Try it](https://img.shields.io/badge/Try_it-online-2fd8ff?style=flat-square&logo=googlechrome&logoColor=white)](https://joaoantunesss.github.io/AntunesPlayer/)
@@ -67,7 +69,7 @@ An **IPTV player** for Android phones, **Google TV** and the web, with **Antunes
 <td width="66%" valign="top">
 
 ### TV Debloat · design UNIQUE
-Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen: reversible removal of ad and telemetry apps, a dock of favourite apps, a control panel, the live channel playing muted behind the menu or a **fireplace with sound**, and **split screen** with an HDMI input.
+Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen: reversible removal of ad and telemetry apps, a dock of favourite apps you choose and reorder with the remote (hold OK), a control panel, the live channel playing muted behind the menu or a **fireplace with sound**, and **split screen** with an HDMI input.
 
 **TVDebloat.exe** does it all for people who don't code: it finds the TV on the network, lets you pick the features and undoes everything with one button. **Comando TV** is the matching Android phone remote over Wi‑Fi.
 
@@ -193,7 +195,7 @@ Turns an ad-filled **TCL Google TV** into a clean **Apple TV-style** home screen
 <img src="https://raw.githubusercontent.com/JoaoAntunesss/open-computer-engineering/main/docs/inicio.jpg" alt="Open Computer Engineering: the course as a 3D circuit board" width="100%">
 
 **[Open Computer Engineering](https://github.com/JoaoAntunesss/open-computer-engineering)**<br>
-<sub>A complete, free computer engineering degree in Portuguese and English: 42 subjects and 378 written lessons with solved exercises and code you can run in the browser, a guided path, and a 3D circuit board that lights up as you learn. Installs on a phone like an app. Built with Three.js, no build step.</sub>
+<sub>A complete, free computer engineering degree in Portuguese and English: 42 subjects and 378 written lessons with solved exercises and code you can run in the browser, a guided path, a study plan that lays out every week from your start date and pace (and exports to your calendar), and a circuit board that lights up as you learn, light SVG by default with an optional 3D version. Installs on a phone like an app. No build step.</sub>
 <a href="https://joaoantunesss.github.io/open-computer-engineering/">Open the course</a>
 
 </td>
