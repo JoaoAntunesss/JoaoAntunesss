@@ -256,7 +256,7 @@ Computer Engineering<br><sub>(Engenharia Informática), student</sub>
 <td width="33%" valign="top">
 
 **Experience**<br>
-Administrative work<br><sub>Câmara Municipal de Matosinhos</sub>
+Administrative work<br><sub>Public administration</sub>
 
 </td>
 <td width="33%" valign="top">
